@@ -1,0 +1,61 @@
+This is our output for test2.txt
+
+We have processed 5 total paragraphs
+We have found a vocabulary size of 177
+We have found a collection size of 358
+
+1: 'his' has a collection frequency of 19 and document frequency of 2
+2: 'the' has a collection frequency of 18 and document frequency of 2
+3: 'of' has a collection frequency of 17 and document frequency of 2
+4: 'to' has a collection frequency of 14 and document frequency of 2
+5: 'and' has a collection frequency of 13 and document frequency of 3
+6: 'a' has a collection frequency of 9 and document frequency of 2
+7: 'their' has a collection frequency of 9 and document frequency of 2
+8: 'in' has a collection frequency of 8 and document frequency of 2
+9: 'had' has a collection frequency of 7 and document frequency of 2
+10: 'was' has a collection frequency of 6 and document frequency of 2
+11: 'which' has a collection frequency of 6 and document frequency of 2
+12: 'for' has a collection frequency of 6 and document frequency of 2
+13: 'by' has a collection frequency of 5 and document frequency of 2
+14: 'he' has a collection frequency of 4 and document frequency of 2
+15: 'dashwood' has a collection frequency of 4 and document frequency of 2
+16: 'estate' has a collection frequency of 4 and document frequency of 2
+17: 'but' has a collection frequency of 3 and document frequency of 2
+18: 'him' has a collection frequency of 3 and document frequency of 2
+19: 'henry' has a collection frequency of 3 and document frequency of 2
+20: 'fortune' has a collection frequency of 3 and document frequency of 1
+21: 'her' has a collection frequency of 3 and document frequency of 2
+22: 'own' has a collection frequency of 3 and document frequency of 2
+23: 'from' has a collection frequency of 3 and document frequency of 2
+24: 'norland' has a collection frequency of 3 and document frequency of 2
+25: 'age' has a collection frequency of 3 and document frequency of 2
+26: 'mr' has a collection frequency of 3 and document frequency of 2
+27: 'happened' has a collection frequency of 2 and document frequency of 2
+28: 'so' has a collection frequency of 2 and document frequency of 2
+29: 'family' has a collection frequency of 2 and document frequency of 1
+30: 'respectable' has a collection frequency of 2 and document frequency of 2
+31: 'interest' has a collection frequency of 2 and document frequency of 2
+32: 'property' has a collection frequency of 2 and document frequency of 2
+33: 'it' has a collection frequency of 2 and document frequency of 2
+34: 'large' has a collection frequency of 2 and document frequency of 2
+35: 'life' has a collection frequency of 2 and document frequency of 2
+36: 'lived' has a collection frequency of 2 and document frequency of 1
+37: 'only' has a collection frequency of 2 and document frequency of 1
+38: 'man' has a collection frequency of 2 and document frequency of 2
+39: 'on' has a collection frequency of 2 and document frequency of 1
+40: 'many' has a collection frequency of 2 and document frequency of 1
+41: 'marriage' has a collection frequency of 2 and document frequency of 1
+42: 'mother' has a collection frequency of 2 and document frequency of 1
+43: 'not' has a collection frequency of 2 and document frequency of 2
+44: 'son' has a collection frequency of 2 and document frequency of 1
+45: 'nephew' has a collection frequency of 2 and document frequency of 1
+46: 'who' has a collection frequency of 2 and document frequency of 1
+47: 'could' has a collection frequency of 2 and document frequency of 2
+48: 'been' has a collection frequency of 2 and document frequency of 2
+49: 'as' has a collection frequency of 2 and document frequency of 2
+50: 'children' has a collection frequency of 2 and document frequency of 1
+100: 'therefore' has a collection frequency of 1 and document frequency of 1
+150: 'lady' has a collection frequency of 1 and document frequency of 1
+160: 'inheritor' has a collection frequency of 1 and document frequency of 1
+
+The number of words that only appeared in one document are: 137

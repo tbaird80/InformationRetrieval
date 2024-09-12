@@ -1,0 +1,56 @@
+This is our output for test.txt
+
+We have processed 5 total paragraphs
+We have found a vocabulary size of 83
+We have found a collection size of 126
+
+1: 'the' has a collection frequency of 8 and document frequency of 4
+2: 'of' has a collection frequency of 5 and document frequency of 3
+3: 'president' has a collection frequency of 5 and document frequency of 3
+4: 'rfa' has a collection frequency of 5 and document frequency of 4
+5: 'and' has a collection frequency of 4 and document frequency of 3
+6: 'from' has a collection frequency of 4 and document frequency of 2
+7: 'board' has a collection frequency of 4 and document frequency of 4
+8: 'a' has a collection frequency of 3 and document frequency of 2
+9: 'asia' has a collection frequency of 3 and document frequency of 2
+10: 'in' has a collection frequency of 3 and document frequency of 2
+11: 'liu' has a collection frequency of 3 and document frequency of 2
+12: 'free' has a collection frequency of 2 and document frequency of 1
+13: 'new' has a collection frequency of 2 and document frequency of 2
+14: 'an' has a collection frequency of 2 and document frequency of 2
+15: 'news' has a collection frequency of 2 and document frequency of 1
+16: 'radio' has a collection frequency of 2 and document frequency of 1
+17: 'libby' has a collection frequency of 2 and document frequency of 1
+18: 'university' has a collection frequency of 2 and document frequency of 1
+19: 'nine' has a collection frequency of 1 and document frequency of 1
+20: 'nonprofit' has a collection frequency of 1 and document frequency of 1
+21: 'wharton' has a collection frequency of 1 and document frequency of 1
+22: 'org' has a collection frequency of 1 and document frequency of 1
+23: 'mba' has a collection frequency of 1 and document frequency of 1
+24: 'organizations' has a collection frequency of 1 and document frequency of 1
+25: 'pennsylvania' has a collection frequency of 1 and document frequency of 1
+26: 'photo' has a collection frequency of 1 and document frequency of 1
+27: 'where' has a collection frequency of 1 and document frequency of 1
+28: 'private' has a collection frequency of 1 and document frequency of 1
+29: 'who' has a collection frequency of 1 and document frequency of 1
+30: 'unavailable' has a collection frequency of 1 and document frequency of 1
+31: 'to' has a collection frequency of 1 and document frequency of 1
+32: 'reports' has a collection frequency of 1 and document frequency of 1
+33: 'retired' has a collection frequency of 1 and document frequency of 1
+34: 'washington' has a collection frequency of 1 and document frequency of 1
+35: 'rfas' has a collection frequency of 1 and document frequency of 1
+36: 'maggy' has a collection frequency of 1 and document frequency of 1
+37: 'richter' has a collection frequency of 1 and document frequency of 1
+38: 'school' has a collection frequency of 1 and document frequency of 1
+39: 'she' has a collection frequency of 1 and document frequency of 1
+40: 'statement' has a collection frequency of 1 and document frequency of 1
+41: 'sterner' has a collection frequency of 1 and document frequency of 1
+42: 'succeeds' has a collection frequency of 1 and document frequency of 1
+43: 'that' has a collection frequency of 1 and document frequency of 1
+44: 'vice' has a collection frequency of 1 and document frequency of 1
+45: 'timely' has a collection frequency of 1 and document frequency of 1
+46: 'richard' has a collection frequency of 1 and document frequency of 1
+47: 'july' has a collection frequency of 1 and document frequency of 1
+48: 'listeners' has a collection frequency of 1 and document frequency of 1
+49: 'languages' has a collection frequency of 1 and document frequency of 1
+50: 'corporation' has a collection frequency of 1 and document frequency of 1
