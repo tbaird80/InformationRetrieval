@@ -1,0 +1,18 @@
+<Q ID=1>
+bird
+cat
+dog
+</Q>
+
+<Q ID=3>
+aardvark
+eagle
+egret
+egret
+dog
+dog
+dog
+egret
+aardvark
+egret
+</Q>
